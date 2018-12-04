@@ -1,0 +1,7 @@
+{
+    "github_client_id":"PUT-IT-HERE",
+    "github_client_secret":"PUT-IT-HERE",
+    "app_github_org":"ucsb-cs56-f18",
+    "baseUrl":"https://CHANGE-TO-YOUR-APP-NAME.herokuapp.com",
+    "salt":"FILL-WITH-RANDOM-CHARS"
+}
